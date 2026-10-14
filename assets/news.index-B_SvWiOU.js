@@ -1,0 +1,1 @@
+import{t as e}from"./news-index-Dsn8pFca.js";var t=e;export{t as component};
