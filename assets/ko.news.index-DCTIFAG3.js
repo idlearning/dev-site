@@ -1,0 +1,1 @@
+import{t as e}from"./news-index-Bwnsazd6.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./publications-H0WXtSBC.js";var t=e;export{t as component};

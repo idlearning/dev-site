@@ -1,0 +1,1 @@
+import{h as e}from"./i18n-Da6I_LX0.js";import{t}from"./news-detail-AOxNU91o.js";import{n}from"./index-CJfKs5FN.js";var r=e();function i(){return(0,r.jsx)(t,{item:n.useLoaderData()})}export{i as component};

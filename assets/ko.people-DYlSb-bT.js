@@ -1,0 +1,1 @@
+import{t as e}from"./people-BjstD_X3.js";var t=e;export{t as component};

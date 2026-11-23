@@ -1,0 +1,1 @@
+import{t as e}from"./home-Dkvb2xVM.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{h as e}from"./i18n-Da6I_LX0.js";var t=e();function n({children:e}){return(0,t.jsx)(`main`,{className:`flex-grow w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10`,children:e})}function r({children:e}){return(0,t.jsx)(`h1`,{className:`text-3xl font-bold text-text-main mb-8`,children:e})}export{r as n,n as t};
